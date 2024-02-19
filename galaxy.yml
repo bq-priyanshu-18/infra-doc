@@ -1,4 +1,7 @@
-namespace: myorg
-name: apache_install
+namespace: bq-priyanshu-18
+name: infra-doc
 version: 1.0.0
-
+authors:
+  - name: priyanshu namdev
+    email: priyashu.namdev@betaque.com
+readme: README.md
